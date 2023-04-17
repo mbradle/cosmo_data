@@ -1,10 +1,10 @@
-# cosmo_data
+# excel_xml
 
-These Jupyter notebooks allow users to convert data from Excel to XML and back. You can run them on [Google Colaboratory](https://colab.research.google.com) by clicking on the Open in Colab badge at the end of this paragraph.  You will need to sign in with your Google account.  If you receive a warning about the authorship of the notebook, you may ignore it by clicking on Run anyway.  Execute the whole notebook by clicking on Run all from the Runtime menu.  You can then change inputs or code in the notebook, as desired.
+These Jupyter notebooks allow users to convert data from Excel to Webnucleo XML and back. You can run them on [Google Colaboratory](https://colab.research.google.com) by clicking on the Open in Colab badge at the end of this paragraph.  You will need to sign in with your Google account.  If you receive a warning about the authorship of the notebook, you may ignore it by clicking on Run anyway.  Execute the whole notebook by clicking on Run all from the Runtime menu.  You can then change inputs or code in the notebook, as desired.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/excel_xml/blob/main/excel_to_xml.ipynb)
+Excel to XML: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/excel_xml/blob/main/excel_to_xml.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/excel_xml/blob/main/xml_to_excel.ipynb)
+XML to Excel: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/excel_xml/blob/main/xml_to_excel.ipynb)
 
 It is also possible to run the notebook on [Binder](https://mybinder.org).  To do so, click on the launch binder badge at the end of this paragraph.  It will take a few minutes to build the appropriate environment, but once done, you can click on the *wnnet_tutorial.ipynb* notebook in the *tutorial* folder to launch it.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbradle/wnnet/HEAD)
 
